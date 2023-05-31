@@ -79,5 +79,5 @@ copyBtn.addEventListener('click', (e)=>{
 });
 setInterval(function(){
 	location.reload();
-},5000);
+},600000);
 
