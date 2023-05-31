@@ -77,8 +77,7 @@ copyBtn.addEventListener('click', (e)=>{
 		})
 	};
 });
-
 setInterval(function(){
-	location.reload()
-},5000)
+	location.reload();
+},5000);
 
